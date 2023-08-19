@@ -108,9 +108,7 @@ header {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.9);
 }
-.category-button {
-    margin: 5px;
-}
+
 .menu-open .navbar-buttons {
     transform: scale(1);
 }
@@ -411,8 +409,7 @@ ul li a:hover {
 @media (max-width: 800px) {
     .category-button {
         font-size: 14px;
-            margin: 15px;
-        }
+        margin: 7px;
     }
     
     .landing-title {
